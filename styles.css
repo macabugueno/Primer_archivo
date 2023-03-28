@@ -1,0 +1,94 @@
+.container-superior {
+    background-color: lightskyblue;
+}
+.navbar-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+}
+.contenedor-menu {
+    display: flex;
+    align-items: center;
+}
+.nav-link {
+    color: white;
+}
+.nav-item {
+    margin: 20px;
+    font-size: 1.5rem;
+}
+.container-inferior {
+    width: 980px;
+    margin: 0 auto;
+}
+.contenedor-encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col-3 {
+    background-color: #f0f0f0;
+    width: 180px;
+   
+}
+img.icono-clima {
+
+    height: 80px;
+    border-radius: 40px;
+    margin: 30px;
+    
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    
+}
+.temperatura {
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.max {
+    color: red;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.min {
+    color: blue;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.footer {
+    width: 980px;
+    border: 2px solid black;
+    align-items: center;
+    position: fixed;
+}
+.cookie-policy {
+    display: flex;
+}
+.mensaje {
+    text-align: left;
+}
+.relleno {
+    text-align: left;
+}
+
+.btn {
+    background: lightskyblue;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px black;
+    width: 100px;
+    font-weight: bold;
+
+}
